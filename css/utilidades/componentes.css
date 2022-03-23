@@ -48,3 +48,35 @@
 .link:hover {
   color: var(--cor-0);
 }
+
+/* titulo internos */ 
+
+.titulo-bg {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: var(--cor-11);
+}
+.titulo {
+  max-width: 1200px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.titulo p {
+  margin-bottom: 4px;
+}
+
+@media(max-width: 800px) {
+  .titulo-bg {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .titulo h1 {
+    font-size: 2.5rem;
+  }
+  .titulo p {
+    font-size: 1rem;
+    text-transform: lowercase;
+    font-weight: 400;
+  }
+}
