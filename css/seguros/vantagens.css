@@ -1,5 +1,8 @@
 .vantagens-bg {
   background: var(--cor-12);
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
 }
 
 .vantagens {
@@ -27,7 +30,8 @@
   .vantagens {
     padding: 60px 0px;
   }
-  .vantagensh2 {
+  .vantagens h2 {
+    font-size: 2.5rem;
     margin-bottom: 40px;
   }
   .vantagens ul {

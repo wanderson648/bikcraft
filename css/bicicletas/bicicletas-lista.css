@@ -67,6 +67,9 @@
   .bicicletas-lista {
     padding-bottom: 60px;
   }
+  .bicicletas-lista h2 {
+    font-size: 2.5rem;
+  }
   .bicicletas-lista ul {
     gap: 20px;
   }

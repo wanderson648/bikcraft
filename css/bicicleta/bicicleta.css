@@ -108,7 +108,9 @@
     grid-template-columns: 1fr;
     padding: 40px 20px;
   }
-
+  .bicicleta-conteudo h2 {
+    /* font-size: 2rem; */
+  }
   .bicicleta-imagens {
     grid-row: 2;
   }

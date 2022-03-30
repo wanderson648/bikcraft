@@ -28,12 +28,17 @@
 @import './seguros/vantagens.css';
 @import './seguros/perguntas.css';
 
+/* orçamento */
+
+@import './orcamento/orcamento.css';
+
+
 /* contato */
 @import './contato/contato.css';
 @import './contato/lojas.css';
-/* footer */
-@import './global/footer.css';
 
 /* termos */
 @import 'termos/termos.css';
 
+/* footer */
+@import './global/footer.css';

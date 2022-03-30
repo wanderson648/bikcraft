@@ -76,6 +76,12 @@
   }
 }
 
+@media(max-width: 800px) {
+  .tecnologia-conteudo h2 {
+    font-size: 2.5rem;
+  }
+}
+
 @media(max-width: 600px) {
   .tecnologia-vantagens {
     flex-direction: column;
